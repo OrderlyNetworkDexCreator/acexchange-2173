@@ -25,24 +25,24 @@
   --oui-color-success-darken: 33 221 155;
   --oui-color-success-contrast: 0 0 0;
 
-  --oui-color-warning: 255 209 70;
-  --oui-color-warning-light: 255 220 100;
-  --oui-color-warning-darken: 220 180 50;
+  --oui-color-warning: 165 29 45;
+  --oui-color-warning-light: 192 28 40;
+  --oui-color-warning-darken: 165 29 45;
   --oui-color-warning-contrast: 0 0 0;
 
   --oui-color-fill: 15 15 15;
   --oui-color-fill-active: 20 20 20;
 
-  --oui-color-base-1: 93 83 123;
-  --oui-color-base-2: 80 72 113;
-  --oui-color-base-3: 66 61 103;
-  --oui-color-base-4: 51 46 66;
-  --oui-color-base-5: 36 32 47;
-  --oui-color-base-6: 26 23 37;
-  --oui-color-base-7: 71 63 93;
-  --oui-color-base-8: 17 15 27;
-  --oui-color-base-9: 10 9 19;
-  --oui-color-base-10: 14 13 18;
+  --oui-color-base-1: 0 0 0;
+  --oui-color-base-2: 0 0 0;
+  --oui-color-base-3: 0 0 0;
+  --oui-color-base-4: 0 0 0;
+  --oui-color-base-5: 0 0 0;
+  --oui-color-base-6: 0 0 0;
+  --oui-color-base-7: 0 0 0;
+  --oui-color-base-8: 0 0 0;
+  --oui-color-base-9: 0 0 0;
+  --oui-color-base-10: 0 0 0;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
