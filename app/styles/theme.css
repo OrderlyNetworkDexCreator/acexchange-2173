@@ -5,7 +5,7 @@
   /* colors */
   --oui-color-primary: 0 0 0;
   --oui-color-primary-light: 33 33 33;
-  --oui-color-primary-darken: 0 0 0;
+  --oui-color-primary-darken: 25 0 0;
   --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 255 255 255;
@@ -53,10 +53,10 @@
   --oui-color-trading-profit-contrast: 0 0 0;
 
   /* gradients */
-  --oui-gradient-primary-start: 40 40 40;
+  --oui-gradient-primary-start: 0 0 0;
   --oui-gradient-primary-end: 0 0 0;
 
-  --oui-gradient-secondary-start: 25 25 25;
+  --oui-gradient-secondary-start: 0 0 0;
   --oui-gradient-secondary-end: 0 0 0;
 
   --oui-gradient-success-start: 240 240 240;
