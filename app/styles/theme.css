@@ -15,9 +15,9 @@
   --oui-color-tertiary: 240 240 240;
   --oui-color-quaternary: 240 240 240;
 
-  --oui-color-danger: 255 0 0;
-  --oui-color-danger-light: 255 50 50;
-  --oui-color-danger-darken: 220 0 0;
+  --oui-color-danger: 165 29 45;
+  --oui-color-danger-light: 224 27 36;
+  --oui-color-danger-darken: 192 28 40;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 255 255 255;
@@ -47,7 +47,7 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 255 0 0;
+  --oui-color-trading-loss: 165 29 45;
   --oui-color-trading-loss-contrast: 255 255 255;
   --oui-color-trading-profit: 255 255 255;
   --oui-color-trading-profit-contrast: 0 0 0;
@@ -65,8 +65,8 @@
   --oui-gradient-danger-start: 255 0 0;
   --oui-gradient-danger-end: 220 0 0;
 
-  --oui-gradient-brand-start: 33 33 33;
-  --oui-gradient-brand-end: 0 0 0;
+  --oui-gradient-brand-start: 165 29 45;
+  --oui-gradient-brand-end: 165 29 45;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Manrope', sans-serif !important;
+  font-family: 'Roboto', sans-serif !important;
   font-size: 16px !important;
 }
